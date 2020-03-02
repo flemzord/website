@@ -64,7 +64,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                     <Navigation data={site.navigation} navClass="site-nav-item" />
                                 </div>
                                 <div className="site-nav-right">
-                                    <Link className="site-nav-button" to="/mes-equipements">Mes équipements</Link>
+                                    <Link className="site-nav-button" to="/mon-materiel">Mon matériel</Link>
                                 </div>
                             </nav>
                         </div>
