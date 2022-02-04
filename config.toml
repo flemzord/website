@@ -10,8 +10,6 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
-
 [params]
 author = "Maxence Maireaux"
 info = "DevOps Engineer"
@@ -42,9 +40,14 @@ author = "authors"
 
 # Social links
 [[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin fa-2x"
+weight = 1
+url = "https://www.linkedin.com/in/maxencemaireaux/"
+[[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
-weight = 1
+weight = 2
 url = "https://github.com/flemzord/"
 [[params.social]]
 name = "Twitter"
@@ -53,10 +56,10 @@ weight = 3
 url = "https://twitter.com/flemzord/"
 
 # Menu links
-#[[menu.main]]
-#name = "Blog"
-#weight = 1
-#url  = "posts/"
+[[menu.main]]
+name = "Blog"
+weight = 1
+url  = "posts/"
 #[[menu.main]]
 #name = "About"
 #weight = 2
