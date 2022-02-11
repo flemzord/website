@@ -64,3 +64,9 @@ url  = "posts/"
 #name = "About"
 #weight = 2
 #url = "about/"
+
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+[params.plausibleAnalytics]
+domain = "maxence.maireaux.fr"
+serverURL = "plausible.flemzord.ovh" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
