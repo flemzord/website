@@ -1,8 +1,8 @@
 baseurl = "https://maxence.maireaux.fr"
 title = "Maxence Maireaux"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "fr"
+defaultcontentlanguage = "fr"
 
 paginate = 20
 
