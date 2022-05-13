@@ -54,6 +54,11 @@ name = "Twitter"
 icon = "fa fa-twitter fa-2x"
 weight = 3
 url = "https://twitter.com/flemzord/"
+[[params.social]]
+name = "Twitch"
+icon = "fa fa-twitch fa-2x"
+weight = 3
+url = "https://twitch.tv/flemzord"
 
 # Menu links
 [[menu.main]]
