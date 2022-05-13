@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 author = "Maxence Maireaux"
-info = "DevOps Engineer"
+info = "VP of Engineering | DevOps Engineer"
 description = "John Doe's personal website"
 keywords = "blog,developer,personal"
 avatarurl = "images/avatar.jpg"
